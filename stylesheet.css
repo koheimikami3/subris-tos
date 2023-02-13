@@ -1,4 +1,7 @@
 body {
-  color: black;
   font-size: xx-large;
+}
+
+.list {
+  list-style-type: none;
 }
